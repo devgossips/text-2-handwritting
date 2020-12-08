@@ -19,7 +19,7 @@ import { setInkColor, toggleDrawCanvas } from './utils/draw.mjs';
  * related to the issue you've choosen.
  *
  * If you have any questions related to code, you can drop them in my Twitter DM @saurabhcodes
- * or in my email at saurabhdaware99@gmail.com
+ * or in my email at sahoosagnik1@gmail.com
  *
  * Thanks! and Happy coding 🌻
  *
